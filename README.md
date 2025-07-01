@@ -12,8 +12,3 @@ A next-generation chat UI built with React + Vite, designed for seamless AI inte
 - Adaptive interface design  
 - Future-ready architecture  
 
-## 🚀 Quick Start
-
-```bash
-npm install
-npm run dev
